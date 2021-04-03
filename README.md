@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rezki Ananda</h1>
 <h3 align="center">A innovative tech mind and high interest in front-end development, mobile development, and design apps since 2018.</h3>
 
+<img src="https://media1.tenor.com/images/0ab94f75b2d62064944b8817093f4c6f/tenor.gif?itemid=15344630" align="center">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newbiexpert&label=Profile%20views&color=0e75b6&style=flat" alt="newbiexpert" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newbiexpert" alt="newbiexpert" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/userauthfailed" target="blank"><img src="https://img.shields.io/twitter/follow/userauthfailed?logo=twitter&style=for-the-badge" alt="userauthfailed" /></a> </p>
+
+<img src="https://media1.tenor.com/images/a6e8243ff71f06baa776e82208074883/tenor.gif?itemid=13395323" align="right">
 
 - 🔭 I’m currently working on **Self employed**
 
@@ -42,3 +46,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=newbiexpert&show_icons=true&locale=en" alt="newbiexpert" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newbiexpert&" alt="newbiexpert" /></p>
+
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<div align="center">
+<img src="https://media1.tenor.com/images/410bd3b8c1204bcc35058864388820f0/tenor.gif?itemid=14238913">
+</div>
