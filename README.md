@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rezki Ananda</h1>
 <h3 align="center">A innovative tech mind and high interest in front-end development, mobile development, and design apps since 2018.</h3>
-
-<img src="https://media1.tenor.com/images/0ab94f75b2d62064944b8817093f4c6f/tenor.gif?itemid=15344630" align="center">
-
+<div align="center">
+<img src="https://media1.tenor.com/images/0ab94f75b2d62064944b8817093f4c6f/tenor.gif?itemid=15344630">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newbiexpert&label=Profile%20views&color=0e75b6&style=flat" alt="newbiexpert" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newbiexpert" alt="newbiexpert" /></a> </p>
