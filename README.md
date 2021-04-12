@@ -45,6 +45,7 @@
 
 <br><br><br>
 
+<div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=newbiexpert&show_icons=true&locale=en&layout=compact" alt="newbiexpert" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=newbiexpert&show_icons=true&locale=en" alt="newbiexpert" /></p>
@@ -54,4 +55,5 @@
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
 <img src="https://media1.tenor.com/images/410bd3b8c1204bcc35058864388820f0/tenor.gif?itemid=14238913">
+</div>
 </div>
