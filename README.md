@@ -11,13 +11,13 @@
 
 <img src="https://media1.tenor.com/images/a6e8243ff71f06baa776e82208074883/tenor.gif?itemid=13395323" align="right">
 
-- 🔭 I’m currently working on **Self employed**
+- 🔭 I’m currently working on **Self employed(Looking for an Internship Opportunity)**
 
-- 🌱 I’m currently learning **Flutter, Kotlin, and ReactJs**
+- 🌱 I’m currently learning **Android Jetpack & Clean Architecture, Flutter, and ReactJs**
 
 - 📝 I regularly write articles on [https://mrrezki.medium.com/](https://mrrezki.medium.com/)
 
-- 💬 Ask me about **Android Java, Python, Bootstrap**
+- 💬 Ask me about **Android Native, Kotlin, Java, Python, Bootstrap**
 
 - 📫 How to reach me **muhammad.rezki.ananda@gmail.com**
 
