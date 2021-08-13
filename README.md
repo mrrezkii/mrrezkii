@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newbiexpert" alt="newbiexpert" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/userauthfailed" target="blank"><img src="https://img.shields.io/twitter/follow/userauthfailed?logo=twitter&style=for-the-badge" alt="userauthfailed" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/userauthfailed" target="blank"><img src="https://img.shields.io/twitter/follow/userauthfailed?logo=twitter&style=for-the-badge" alt="userauthfailed" /></a> </p> -->
 
 <img src="https://media1.tenor.com/images/a6e8243ff71f06baa776e82208074883/tenor.gif?itemid=13395323" align="right">
 
